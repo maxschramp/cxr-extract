@@ -10,12 +10,12 @@ long_description = readme_file.read_text(encoding="utf-8") if readme_file.exists
 setup(
     name="cxr-extract",
     version="1.0.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Max Schramp",
+    author_email="maxschramp@gmail.com",
     description="Extract render elements from Corona CXR files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/cxr-extract",
+    url="https://github.com/maxschramp/cxr-extract",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
