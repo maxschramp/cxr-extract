@@ -15,7 +15,7 @@ Extract render elements from Corona Renderer CXR files.
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/cxr-extract.git
+git clone https://github.com/maxschramp/cxr-extract.git
 cd cxr-extract
 pip install -e .
 ```
@@ -92,7 +92,7 @@ Extracted elements are saved in folders named after the sequence:
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/yourusername/cxr-extract.git
+git clone https://github.com/maxschramp/cxr-extract.git
 cd cxr-extract
 pip install -e ".[dev]"
 ```
